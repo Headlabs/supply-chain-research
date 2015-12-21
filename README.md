@@ -1,4 +1,3 @@
-# supply-chain-r-d
 A repo for links about supply chain management / inventory management in software.
 
 ## blockchain tech
